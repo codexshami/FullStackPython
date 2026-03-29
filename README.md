@@ -11,6 +11,8 @@ Welcome to the ultimate Data Structures and Algorithms (DSA) preparation reposit
 
 This project aims to provide a comprehensive resource for students and professionals preparing for technical interviews at top-tier tech companies. Each topic folder contains a structured set of 20 problems, ranging from Easy to Hard difficulty.
 
+<div align="center">
+
 ### Current Progress
 
 | Folder Topic | Status | Problems Completed |
@@ -31,6 +33,8 @@ This project aims to provide a comprehensive resource for students and professio
 | Dynamic Programming | ⏳ Pending | 0 / 20 |
 | Graphs | ⏳ Pending | 0 / 20 |
 | ... and more | ⏳ Pending | - |
+
+</div>
 
 ## Structure for Each Folder
 
