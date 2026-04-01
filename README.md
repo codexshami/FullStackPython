@@ -27,11 +27,11 @@ This project aims to provide a comprehensive resource for students and professio
 | String | ✅ Complete | 20 / 20 |
 | Hash | ✅ Complete | 20 / 20 |
 | Sliding Window | ✅ Complete | 20 / 20 |
-| Two Pointer | 🛠️ In Progress | 0 / 20 |
-| Recursion | ⏳ Pending | 0 / 20 |
-| Backtracking | ⏳ Pending | 0 / 20 |
-| Dynamic Programming | ⏳ Pending | 0 / 20 |
-| Graphs | ⏳ Pending | 0 / 20 |
+| Two Pointer | ✅ Complete | 20 / 20 |
+| Recursion | ✅ Complete | 20 / 20 |
+| Backtracking | ✅ Complete | 20 / 20 |
+| Dynamic Programming | ✅ Complete | 20 / 20 |
+| Graphs | ✅ Complete | 20 / 20 |
 | ... and more | ⏳ Pending | - |
 
 </div>

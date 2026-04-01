@@ -4,6 +4,8 @@
 
 def largest(arr):                   #create a function and pass the array as an argument
     return max(arr)                 #use the built-in max() function to find and return the largest element in the array
+arr = [3, 5, 7, 2, 8]               #define an array with some elements
+print(largest(arr))                 #call the function and print the largest element
 
 #logic method without function:
 
