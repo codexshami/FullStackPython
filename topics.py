@@ -1,6 +1,3 @@
-"""
-Script to generate Problems and Solutions for all remaining empty topic folders.
-"""
 import os
 
 BASE_DIR = r"d:\500DCPP"
