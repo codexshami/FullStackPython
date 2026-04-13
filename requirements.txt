@@ -1,4 +1,4 @@
-# Requirements for 500+ DSA Solutions in Python
+# Requirements for 850+ DSA Solutions in Python
 
 # Core
 # The solutions are written in standard Python 3.10+
