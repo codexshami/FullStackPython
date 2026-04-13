@@ -1,10 +1,3 @@
-"""
-Generator for remaining topics: OOP, Advanced Python, Functional Programming, Basics,
-Advanced Mathematics, Advanced Problems, Competitive Programming,
-Concurrency, SystemDesign, Databases, Networking, Security, Testing,
-DataScience, MachineLearning, WebDevelopment, GameDevelopment,
-RealWorldApplication, RealWorldProblem, Miscellaneous
-"""
 import os
 
 BASE_DIR = r"d:\500DCPP"
