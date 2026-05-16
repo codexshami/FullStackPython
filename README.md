@@ -86,8 +86,6 @@
 
 </div>
 
-<div align="center">
-
 ```
 dsa-solutions/
 ┃
@@ -107,8 +105,6 @@ dsa-solutions/
 ┃
 ┗━━ README.md
 ```
-
-</div>
 
 ---
 
@@ -257,13 +253,13 @@ TOTAL   ████████████████████████
 
 </div>
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/codexshami/dsa-solutions.git
 
-# Navigate into the project
+### Navigate into the project
 cd dsa-solutions
 
-# Browse any topic folder
+### Browse any topic folder
 cd 01_Array_and_List/Problems
 
 ---
@@ -273,19 +269,19 @@ cd 01_Array_and_List/Problems
 ## HOW TO USE THIS REPO
 
 
-# Step 1 — Pick a topic
+### Step 1 — Pick a topic
 topic = "Dynamic Programming"
 
-# Step 2 — Read the problem statement
+### Step 2 — Read the problem statement
 problem = open(f"{topic}/Problems/problem01.md").read()
 
-# Step 3 — Attempt the solution yourself first
+### Step 3 — Attempt the solution yourself first
 
-# Step 4 — Compare with the provided solution
+### Step 4 — Compare with the provided solution
 solution = open(f"{topic}/Solutions/solution01.md").read()
 
-# Step 5 — Study the Big O breakdown and approach
-# Step 6 — Move to the next problem
+### Step 5 — Study the Big O breakdown and approach
+### Step 6 — Move to the next problem
 
 print("Repeat until you are unstoppable.")
 
