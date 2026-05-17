@@ -29,7 +29,7 @@
 
 | Problems | Topics | Languages | Difficulty | Status |
 |:--------:|:-------:|:---------:|:----------:|:------:|
-| **840+** | **42** | Python · C++ · JS | Easy to Hard | 100% Done |
+| **840+** | **42** | Python | Easy to Hard | 100% Done |
 
 </div>
 
